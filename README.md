@@ -18,20 +18,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesuhesu&langs_count=8)](https://github.com/hesuhesu/github-readme-stats)
 
-
-
-
-<!-- 
-- 🤔 I’m looking for help with
-- 👯 I’m looking to collaborate on ...
-- 🔭 I’m currently working on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
-**hesuhesu/hesuhesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+https://getemoji.com/
 -->
