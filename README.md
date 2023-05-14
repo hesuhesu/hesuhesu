@@ -4,7 +4,7 @@
 
 ![hesuhesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesuhesu&show_icons=true&theme=transparent)
 
-[![hesuhesu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hesuhesu&bg_color=A9A9F5&color=708090&line=24292e&point=24292e&area=true&custom_title=Contribute%20graph&border=true)](https://github.com/hesuhesu/github-readme-activity-graph)
+[![hesuhesu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hesuhesu&bg_color=FAFAFA&color=708090&line=24292e&point=24292e&area=true&custom_title=Contribute%20graph&border=true)](https://github.com/hesuhesu/github-readme-activity-graph)
 
 ### 🚩 Baekjoon Algorithm
 
