@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&theme=flat&column=7)](https://github.com/hesuhesu/)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hesuhesu&theme=github&utcOffset=9)
+![Time stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hesuhesu&theme=github&utcOffset=9)
 
 <!--
 [![hesuhesu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hesuhesu&bg_color=FAFAFA&color=708090&line=24292e&point=24292e&area=true&custom_title=Contribute%20graph&border=true)](https://github.com/hesuhesu/github-readme-activity-graph)
