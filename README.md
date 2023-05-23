@@ -4,8 +4,13 @@
 
 ![hesuhesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesuhesu&show_icons=true&theme=transparent)
 
-[![hesuhesu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hesuhesu&bg_color=FAFAFA&color=708090&line=24292e&point=24292e&area=true&custom_title=Contribute%20graph&border=true)](https://github.com/hesuhesu/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hesuhesu&theme=nord_dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&theme=flat&column=7)](https://github.com/hesuhesu/)
+
+<!--
+[![hesuhesu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hesuhesu&bg_color=FAFAFA&color=708090&line=24292e&point=24292e&area=true&custom_title=Contribute%20graph&border=true)](https://github.com/hesuhesu/github-readme-activity-graph)
+-->
 ### 🚩 Baekjoon Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hesuhesu)](https://solved.ac/hesuhesu)<br/>
