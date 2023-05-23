@@ -4,7 +4,7 @@
 
 ![hesuhesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesuhesu&show_icons=true&theme=transparent)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&theme=flat&column=7)](https://github.com/hesuhesu/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&theme=flat&column=7)](https://github.com/hesuhesu//github-trophies)
 
 ![Time stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hesuhesu&theme=github&utcOffset=9)
 
@@ -16,14 +16,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hesuhesu)](https://solved.ac/hesuhesu)<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hesuhesu)](https://solved.ac/hesuhesu)<br/>
 
+
 ### 🌱 I’m currently learning 
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesuhesu&langs_count=8)](https://github.com/hesuhesu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesuhesu&layout=compact&langs_count=10&theme=white)](https://github.com/hesuhesu?tab=repositories&q=&type=&language=java&sort=)
 
 <!--
 https://getemoji.com/
