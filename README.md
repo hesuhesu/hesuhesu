@@ -23,7 +23,7 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesuhesu&layout=compact&langs_count=20&theme=white)](https://github.com/hesuhesu?tab=repositories&q=&type=&language=java&sort=)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesuhesu&layout=compact&langs_count=10&theme=white)](https://github.com/hesuhesu?tab=repositories&q=&type=&language=java&sort=)
 
 <!--
 https://getemoji.com/
