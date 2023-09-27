@@ -2,7 +2,7 @@
 
 ### ✅ Github state
 
-![hesuhesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesuhesu&show_icons=true&theme=transparent)
+![hesuhesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesuhesu&show_icons=true&theme=transparent&hide=stars)
 
 <!-- 해당 부분 수정 시 주석 해제 [![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&theme=flat&column=7)](https://github.com/hesuhesu//github-trophies)
 -->
