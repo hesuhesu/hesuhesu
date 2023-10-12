@@ -4,7 +4,7 @@
 
 ![hesuhesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesuhesu&show_icons=true&theme=transparent&hide=stars)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu)](https://github.com/hesuhesu//github-trophies)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&column=4)](https://github.com/hesuhesu//github-trophies)
 
 ![Time stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hesuhesu&theme=github&utcOffset=9)
 
