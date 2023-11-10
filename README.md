@@ -8,7 +8,7 @@
 <!--기본 stats-->
 ![hesuhesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesuhesu&show_icons=true&theme=transparent&hide=stars)
 <!--트로피 컬렉션-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&column=4)](https://github.com/hesuhesu//github-trophies)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 <!--시간 별 기여 현황-->
 ![Time stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hesuhesu&theme=github&utcOffset=9)
 
