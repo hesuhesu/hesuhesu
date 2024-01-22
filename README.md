@@ -27,7 +27,7 @@
 
 <br>
 
-### 🌱 I’m currently learning 
+### 🌱 I’m currently learning & using
 
 <br>
 <!--동적 뱃지-->
