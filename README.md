@@ -22,7 +22,6 @@
 
 <br>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hesuhesu)](https://solved.ac/hesuhesu)<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hesuhesu)](https://solved.ac/hesuhesu)<br/>
 
 <br>
