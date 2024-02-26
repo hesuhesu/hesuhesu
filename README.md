@@ -6,9 +6,12 @@
 <br>
 
 <!-- 기본 stats -->
-![hesuhesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesuhesu&show_icons=true&theme=transparent&hide=stars&rank_icon=github)
+![hesuhesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesuhesu&title_color=transparent&icon_color=339900&text_color=000000&show_icons=true&theme=transparent&hide=stars&rank_icon=github)
 <!-- total contribute / streak contribute / longest streak contribute -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hesuhesu)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hesuhesu&card_width=468)](https://git.io/streak-stats)
+<!-- 한국어 버전 :
+[![GitHub Streak](https://streak-stats.demolab.com?user=hesuhesu&locale=ko&card_width=468)](https://git.io/streak-stats)
+-->
 <!-- 트로피 컬렉션 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
