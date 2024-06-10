@@ -41,7 +41,7 @@
 <br>
 
 <!-- 아이콘 총 모음 -->
-[![My Skills](https://skillicons.dev/icons?i=svelte,threejs,js,ts,sqlite,spring,react,raspberrypi,qt,py,opencv,npm,nodejs,mysql,linux,kotlin,jquery,java,html,gradle,github,git,fastapi,django,css,cpp,c,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,threejs,js,ts,sqlite,spring,react,raspberrypi,qt,py,opencv,npm,nodejs,mysql,linux,bootstrap,kotlin,jquery,java,html,gradle,github,git,fastapi,django,css,cpp,c,arduino)](https://skillicons.dev)
 
 <br>
 
@@ -79,9 +79,9 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=npm,svelte,html,jquery,css,react,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,svelte,html,jquery,css,react,bootstrap,threejs)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white"><img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white"><img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
 
 <br>
 
