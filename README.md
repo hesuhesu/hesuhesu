@@ -17,7 +17,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=hesuhesu&locale=ko&card_width=468)](https://git.io/streak-stats)
 -->
 <!-- 트로피 컬렉션 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hesuhesu&theme=flat&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
