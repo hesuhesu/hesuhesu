@@ -41,7 +41,7 @@
 <br>
 
 <!-- 아이콘 총 모음 -->
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,maven,npm,git,svelte,html,js,linux,spring,nodejs,mongodb,fastapi,arduino,webpack,react,materialui,ts,css,jquery,cpp,py,mysql,django,gradle,sqlite,bootstrap,kotlin,opencv,c,github,java,threejs&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,maven,npm,git,svelte,html,aws,js,linux,spring,nodejs,mongodb,nginx,fastapi,arduino,webpack,react,materialui,ts,css,jquery,cpp,py,mysql,django,gradle,sqlite,bootstrap,kotlin,opencv,c,github,java,threejs&perline=12)](https://skillicons.dev)
 
 <br>
 
