@@ -135,7 +135,7 @@
 
 <br>
 
-### 🐬 Using IDE
+### 🐬 Using IDE, Editor
 
 <br>
 
