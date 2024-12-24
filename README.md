@@ -11,8 +11,9 @@
 <!-- contribution graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hesuhesu&bg_color=FFFFFF&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- total contribute / streak contribute / longest streak contribute -->
+<!-- 영어 버전: 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hesuhesu&card_width=468)](https://git.io/streak-stats)
+ -->
 <!-- 한국어 버전 :
 [![GitHub Streak](https://streak-stats.demolab.com?user=hesuhesu&locale=ko&card_width=468)](https://git.io/streak-stats)
 -->
@@ -29,12 +30,13 @@
 
 <br>
 
+<!-- top language stats
 ### 📊 top language stats
 
-<!-- top language stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesuhesu&layout=compact&langs_count=10&theme=white)](https://github.com/hesuhesu?tab=repositories&q=&type=&language=java&sort=)
 
 <br>
+-->
 
 <!-- 아이콘 총 모음
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,maven,npm,git,svelte,html,ubuntu,aws,js,linux,spring,nodejs,mongodb,nginx,fastapi,arduino,webpack,react,materialui,ts,css,jquery,cpp,py,mysql,django,gradle,sqlite,bootstrap,kotlin,opencv,c,github,java,threejs&perline=12)](https://skillicons.dev)
@@ -73,9 +75,9 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=npm,html,react,css,jquery,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,html,sass,styledcomponents,react,css,jquery,threejs)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
 
 <br>
 
@@ -83,9 +85,9 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,spring,nodejs,mongodb,mysql,django,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,spring,nodejs,mongodb,mysql)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"><img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 
 <br>
 
@@ -99,13 +101,13 @@
 
 <br>
 
-### 💒 Build Tools
+### 💒 Build / Bundle Tools
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=maven,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=maven,webpack,gradle)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
 
 <br>
 
@@ -123,9 +125,9 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,qt,arduino,webpack,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,qt,arduino,kotlin)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=WebGL&logoColor=white"><img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"><img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7F00FF?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=WebGL&logoColor=white"><img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"><img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7F00FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 
 <br>
 
