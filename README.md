@@ -1,6 +1,18 @@
 <!-- 간판 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=hesuhesu&fontSize=100)
 
+### 👋 About Me
+
+<br>
+
+> 역량을 끊임없이 발전시키고자 하는 신입 프론트엔드 개발자입니다.
+
+> 방법을 찾고 고도화 하기 위해 여러 방안을 고민하고 프로젝트를 되돌아 봅니다.
+
+> 하나만 고집하는 스폐셜리스트 보단 제너럴리스트를 선호하며, 다양한 경험을 하길 원합니다.
+
+<br>
+
 ### ✅ Github state
 
 <br>
@@ -75,9 +87,9 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=npm,html,sass,styledcomponents,react,css,jquery,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,html,sass,styledcomponents,react,css,threejs)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
 
 <br>
 
@@ -105,11 +117,16 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=maven,webpack,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webpack,vite)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
 
 <br>
+
+<!--
+[![My Skills](https://skillicons.dev/icons?i=maven,webpack,vite,gradle)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+-->
 
 ### 📋 Configuration Management
 
@@ -118,16 +135,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-
-<br>
-
-### 🖥 Other Technologies
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,qt,arduino,kotlin)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=WebGL&logoColor=white"><img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"><img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7F00FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 
 <br>
 
