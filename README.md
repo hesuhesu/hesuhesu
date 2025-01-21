@@ -5,11 +5,13 @@
 
 <br>
 
-> 역량을 끊임없이 발전시키고자 하는 신입 프론트엔드 개발자 은희수 입니다.
+> 역량을 끊임없이 발전시키는 신입 프론트엔드 개발자 은희수 입니다.
 
 > 방법을 찾고 고도화 하기 위해 여러 방안을 고민하고 프로젝트를 되돌아 봅니다.
 
-> 하나만 고집하는 스폐셜리스트 보단 제너럴리스트를 선호하며, 다양한 경험을 하길 원합니다.
+> 사용자 경험을 높여 원활한 환경을 조성하는 목표를 가지고 있습니다. 
+
+> 하나만 고집하는 스페셜리스트 보단 제너럴리스트를 선호하며, 다양한 경험을 하길 원합니다.
 
 <br>
 
@@ -135,16 +137,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-
-<br>
-
-### 🐬 Using IDE, Editor
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,vscode,visualstudio,eclipse,idea,pycharm)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"><img src="https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 
 <!-- https://simpleicons.org/ 에서 정적 뱃지 링크 가져오기 -->
 <!-- https://getemoji.com/ 이모지 -->
